@@ -1,3 +1,8 @@
+@TODO:
+  - fix for newest phpstorm
+  - update todo comment with generated ticket id
+  - autocheck what @todo comments have a ticket id and what comments still require a ticket
+
 # IntelliJ Jira TODO Tasks
 
 An IntelliJ plugin that allows the user to create a JIRA task from given TODOs.
